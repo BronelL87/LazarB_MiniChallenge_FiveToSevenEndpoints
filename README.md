@@ -9,6 +9,7 @@
 ### Peer Review
 
 **Reviewer** 
-
+Juan Heredia
 
 **Reviewer Notes** 
+Everything works just fine, the only small thing is that you dont really need [HttpPost], you can just do [HttpGet] not really that big of a deal but just leeting you know
